@@ -237,12 +237,12 @@ beginning in coding
 
 2022.08.21
 
-01.-Room-painting_Условие
-02.-Beer-And-Chips_Условие
-03.-Football-Souvenirs_Условие
-04.-Cat-Food_Условие
-05.-Christmas-Gifts_Условие
-06.-Gold-Mine_Условие
+01. Room-painting_Условие
+02. Beer-And-Chips_Условие
+03. Football-Souvenirs_Условие
+04. Cat-Food_Условие
+05. Christmas-Gifts_Условие
+06. Gold-Mine_Условие
 
 **********************************************************************************************
 
