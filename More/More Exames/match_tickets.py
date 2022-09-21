@@ -1,0 +1,1 @@
+bugget = float(input())

@@ -1,0 +1,1 @@
+sum(ord("abc"))
