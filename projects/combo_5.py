@@ -1,0 +1,5 @@
+camera = input()
+payment = input()
+vibratoin = input()
+microphone = input()
+send_sms = input()
